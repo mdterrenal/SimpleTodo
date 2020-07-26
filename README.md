@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] I hope to **improve the UI** of the todo list
 
 ## Video Walkthrough
 
@@ -32,11 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I didn't face any challenges at all while creating this app; it was quite enjoyable to make!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 Maria Terrenal
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
